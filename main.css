@@ -1,10 +1,12 @@
 body {
     padding: 0;
     margin: 0;
-    background: #FFFFFF;
+    background: #f2f6e9;
 }
 .navbar {
     background:#6ab446;
+<header class="page-header header container-fluid">
+</header>
 }
 .nav-link,
 .navbar-brand {
