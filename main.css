@@ -12,6 +12,10 @@ body {
 .navbar-brand {
     color: #fff;
     cursor: pointer;
+    position: absolute;
+    left: 50%
+    margin-left: -50px !important
+    display: block;
 }
 .nav-link {
     margin-right: 1em !important;
