@@ -10,8 +10,6 @@ body {
 }
 .nav-link,
 .navbar-brand {
-    position: absolute;
-    left: 25%
     color: #fff;
     cursor: pointer;
 }
