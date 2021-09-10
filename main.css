@@ -4,7 +4,7 @@ body {
     background: #f2f6e9;
 }
 .navbar {
-    background:#6ab446;
+    background:#f2f6e9;
 <header class="page-header header container-fluid">
 </header>
 }
@@ -23,7 +23,7 @@ body {
     justify-content: flex-end;
 }
 .header {
-    background-image: url('C:\Users\Michael\Dropbox\My PC (LAPTOP-D4U6JKCD)\Desktop\Zug');
+    background-image: url('images/header-background.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
