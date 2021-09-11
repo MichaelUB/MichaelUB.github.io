@@ -5,7 +5,7 @@ body {
 }
 .navbar {
     background: #b44646;
-    box-shadow: 0 4px 2px -2px gray;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
 <header class="page-header header container-fluid">
 </header>
 }
