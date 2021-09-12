@@ -11,14 +11,14 @@ body {
 }
 .nav-link,
 .navbar-brand {
-    color: #0D4D8F;
+    color: #0d6efd;
     cursor: pointer;
 }
 .nav-link {
     margin-right: 1em !important;
 }
 .nav-link-big {
-    color: #FF0000;
+    color: #0d6efd;
 }
 .nav-link:hover {
     color: #000;
