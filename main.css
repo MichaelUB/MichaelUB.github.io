@@ -9,6 +9,9 @@ h1 {
   font-style: italic;
   font-family: Papyrus;
 }
+.gray-element {
+  background-color: lightGray;
+}
 .navbar {
     background: #ffffff;
     box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
