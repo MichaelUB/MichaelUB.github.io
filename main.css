@@ -1,41 +1,11 @@
-.body {
+body {
     padding: 0;
     margin: 0;
     background-color: yellow;
 }
-.h1 {
+h1 {
   color: purple;
   font-weight: bold;
   font-style: italic;
   font-family: Papyrus;
-}
-
-.navbar {
-    background: #ffffff;
-    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
-<header class="page-header header container-fluid">
-</header>
-}
-.nav-link,
-.navbar-brand {
-    color: #0d6efd;
-    cursor: pointer;
-}
-.nav-link {
-    margin-right: 1em !important;
-}
-.nav-link-big {
-    color: #0d6efd;
-}
-.nav-link:hover {
-    color: #000;
-}
-.navbar-collapse {
-    justify-content: flex-end;
-}
-.header {
-    background-image: url('images/header-background.jpg');
-    background-size: cover;
-    background-position: center;
-    position: relative;
 }
