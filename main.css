@@ -16,6 +16,7 @@ img {
   border: solid 5px black;
 }
 .center {
+  padding: 20px 20px 20px 20px;
   text-align: center;
 }
 .gray-element {
