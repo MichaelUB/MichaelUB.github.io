@@ -14,6 +14,9 @@ img {
   border-radius: 10px;
   border: solid 5px black;
 }
+.center {
+  text-align: center;
+}
 .gray-element {
   width: 200px;
   height: 100px;
