@@ -10,6 +10,8 @@ h1 {
   font-family: Papyrus;
 }
 .gray-element {
+  width: 200px
+  heigth: 100px
   background-color: lightGray;
 }
 .navbar {
