@@ -14,7 +14,7 @@ img {
   /*filter: blur(2px); /* blurring of images */
   filter: grayscale(100%);
   filter: opacity(50%); /*sets visibility of image -> 100% completely visible; 0% completely invisible */
-  filter: brightness(20%) filter: saturate(50%) filter: contrast(50%);
+  filter: brightness(20%) saturate(50%) contrast(50%);
   margin: 50px;
   padding: 10px;
   border-radius: 10px 100px 10px 100px; /* short hand for border-radius top left, top right, bottom right, bottom left */
