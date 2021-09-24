@@ -1,13 +1,18 @@
 body {
-  padding: 0;
-  margin: 0;
-  background-color: lightBlue;
+    padding: 0;
+    margin: 0;
+    background-color: lightBlue;
 }
 h1 {
   color: purple;
   font-weight: bold;
   font-style: italic;
   font-family: Papyrus;
+}
+img {
+  border-radius: 100px;
+  border: solid 5px black;
+}
 .gray-element {
   width: 200px;
   height: 100px;
