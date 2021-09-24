@@ -16,6 +16,8 @@ img {
   border: solid 5px black;
 }
 .center {
+  border: solid 5px red;
+  border-radius: 5px;
   padding: 20px 20px 20px 20px;
   text-align: center;
 }
