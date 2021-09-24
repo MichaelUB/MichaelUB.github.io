@@ -12,7 +12,7 @@ h1 {
 img {
   transform: rotate(10deg); /* transform is a property, rotate is a function */
   /*filter: blur(2px); /* blurring of images */
-  filter: grayscale(60%);
+  filter: grayscale(100%);
   margin: 50px;
   padding: 10px;
   border-radius: 10px 100px 10px 100px; /* short hand for border-radius top left, top right, bottom right, bottom left */
