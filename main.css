@@ -10,7 +10,8 @@ h1 {
   font-family: Papyrus;
 }
 img {
-  border-radius: 100px;
+  padding: 10px;
+  border-radius: 10px;
   border: solid 5px black;
 }
 .gray-element {
