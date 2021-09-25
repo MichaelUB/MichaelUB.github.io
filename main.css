@@ -25,7 +25,7 @@ img {
   border-radius: 5px;
   padding: 20px 100px 20px 100px; /* short hand for padding  top, right, bottom, left */
   margin: 40px;
-  background: linear-gradient(45deg red, blue);
+  background: linear-gradient(45deg, red, blue);
   text-align: center;
 }
 .gray-element {
