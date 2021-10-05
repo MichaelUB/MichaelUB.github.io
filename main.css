@@ -26,6 +26,9 @@ div {
   background-color: bisque;
   margin: 20px;
 }
+a {
+  display: inline;
+}
 .fantasy {
   color: black;
 }
