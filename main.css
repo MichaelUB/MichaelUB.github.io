@@ -24,6 +24,7 @@ div {
   border: solid 3px lightBlue;
   text-align: center;
   background-color: bisque;
+  margin: 20px;
 }
 .center {
   border: solid 5px red;
