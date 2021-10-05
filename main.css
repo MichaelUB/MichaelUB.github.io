@@ -26,6 +26,9 @@ div {
   background-color: bisque;
   margin: 20px;
 }
+.fantasy {
+  color: black;
+}
 .center {
   border: solid 5px red;
   border-radius: 5px;
